@@ -82,6 +82,7 @@ def process_coins(choice):
         resources[_] -= to_check[_]
 
     print(f'Here is your {choice}. Enjoy!')
+    print("Bye")
     coffee_choice()
 
 
